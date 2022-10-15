@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Agrawal</h1>
-<h3 align="center">GNCSGI'24| Frontend Web Developer | Coder</h3>
+<h3 align="center">GNCSGI'24</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat2922&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2922" /> </p>
 
